@@ -1,5 +1,5 @@
 # SQL Data Warehouse and Analytics Project
-## Building a modern Data Warehouse with MySQL, including ETL process, data modelling, and analytics
+## Building a modern Data Warehouse with SQLServer, including ETL process, data modelling, and analytics
 Welcome to my **Data Warehouse and Analytics Project** repository!
 In this project i will demonstrate a data warehousing and analytics build, including ETL process, data modelling, as well as data analytics using SQL
 
